@@ -58,7 +58,7 @@ const Login = ({ handleLogin }) => {
         <p className="text-red-700 my-2 text-left">{errorMessage}</p>
         
         <button
-          className="bg-red-600 w-full py-2 text-white font-bold text-xl"
+          className="bg-red-600 w-full py-2 text-black font-bold text-xl"
           type="submit"
         >
           Sign In
